@@ -1,0 +1,1 @@
+# plugins-woocommerce-grid-list-toggle
